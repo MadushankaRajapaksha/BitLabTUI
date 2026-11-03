@@ -1,0 +1,6 @@
+# Build output
+dist/
+
+# Python bytecode caches (any depth)
+__pycache__/
+**/__pycache__/
