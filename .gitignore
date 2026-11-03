@@ -1,6 +1,6 @@
 # Build output
 dist/
-
+BitLabTUI.egg-info/
 # Python bytecode caches (any depth)
 __pycache__/
 **/__pycache__/
